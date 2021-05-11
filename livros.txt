@@ -5,4 +5,5 @@ numeros
 deuteronomio
 josue
 juizes
+rute
 1 samuel
