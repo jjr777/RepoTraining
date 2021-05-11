@@ -5,3 +5,4 @@ numeros
 deuteronomio
 josue
 juizes
+1 samuel
