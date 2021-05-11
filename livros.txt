@@ -1,3 +1,5 @@
 genesis
 exodo
 leviticos
+numeros
+deuteronomio
