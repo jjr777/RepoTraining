@@ -9,3 +9,5 @@ rute
 1 samuel
 2 samuel
 1 reis
+2 reis
+1 cronicas
