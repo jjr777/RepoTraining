@@ -3,4 +3,5 @@ exodo
 leviticos
 numeros
 deuteronomio
+josue
 juizes
