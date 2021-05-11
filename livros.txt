@@ -2,5 +2,5 @@ genesis
 exodo
 leviticos
 numeros
-
+deuteronomio
 juizes
