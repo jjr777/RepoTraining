@@ -22,3 +22,5 @@ eclesiastes
 cantares 
 isaias
 jeremias
+lamentaçoes
+ezequiel
