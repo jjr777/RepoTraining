@@ -15,3 +15,5 @@ rute
 esdras
 neemias
 ester
+jo
+salmos
