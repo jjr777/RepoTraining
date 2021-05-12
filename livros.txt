@@ -17,3 +17,5 @@ neemias
 ester
 jo
 salmos
+proverbios
+eclesiastes
