@@ -19,3 +19,6 @@ jo
 salmos
 proverbios
 eclesiastes
+cantares 
+isaias
+jeremias
